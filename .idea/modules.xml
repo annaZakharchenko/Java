@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Test1//.iml" filepath="$PROJECT_DIR$/Test1//.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exam2024/Exam2024.iml" filepath="$PROJECT_DIR$/Exam2024/Exam2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Individual_work_1/Individual_work_1.iml" filepath="$PROJECT_DIR$/Individual_work_1/Individual_work_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Individual_work_1_1/Individual_work_1_1.iml" filepath="$PROJECT_DIR$/Individual_work_1_1/Individual_work_1_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Individual_work_4/Individual_work_4.iml" filepath="$PROJECT_DIR$/Individual_work_4/Individual_work_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Java_1/OOP_Java_1.iml" filepath="$PROJECT_DIR$/OOP_Java_1/OOP_Java_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Java_2/OOP_Java_2.iml" filepath="$PROJECT_DIR$/OOP_Java_2/OOP_Java_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Java_4/OOP_Java_4.iml" filepath="$PROJECT_DIR$/OOP_Java_4/OOP_Java_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Java_5/OOP_Java_5.iml" filepath="$PROJECT_DIR$/OOP_Java_5/OOP_Java_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Java_6/OOP_Java_6.iml" filepath="$PROJECT_DIR$/OOP_Java_6/OOP_Java_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Java_7/OOP_Java_7.iml" filepath="$PROJECT_DIR$/OOP_Java_7/OOP_Java_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Java_8/OOP_Java_8.iml" filepath="$PROJECT_DIR$/OOP_Java_8/OOP_Java_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Java_9/OOP_Java_9.iml" filepath="$PROJECT_DIR$/OOP_Java_9/OOP_Java_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOp_Java_3/OOp_Java_3.iml" filepath="$PROJECT_DIR$/OOp_Java_3/OOp_Java_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestVIT/TestVIT.iml" filepath="$PROJECT_DIR$/TestVIT/TestVIT.iml" />
+    </modules>
+  </component>
+</project>

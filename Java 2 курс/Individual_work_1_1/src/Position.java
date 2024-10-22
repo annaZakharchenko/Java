@@ -1,0 +1,7 @@
+enum Position {
+    DIRECTOR,
+    SECRETARY,
+    PROGRAMMER_JUNIOR,
+    PROGRAMMER_TEAM_LEADER,
+    HR
+}

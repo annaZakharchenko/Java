@@ -1,0 +1,32 @@
+Name: Alice
+Position: HR:
+Title: Hire a new employee
+Description: Find marketing specialist
+Assignee: Alice
+Beginning: Sun May 05 00:00:00 CEST 2024
+Deadline: Tue May 21 00:00:00 CEST 2024
+Completed: No
+Resolution comment: null
+
+
+Name: John
+Position: PROGRAMMER_TEAM_LEADER:
+Title: Test the program
+Description: Find the issue
+Assignee: John
+Beginning: Mon May 13 00:00:00 CEST 2024
+Deadline: Wed May 22 00:00:00 CEST 2024
+Completed: Yes
+Resolution comment: Send the issue to backend specialist
+Priority: 2
+
+Title: Update code
+Description: Develop new feature
+Assignee: John
+Beginning: Fri May 03 00:00:00 CEST 2024
+Deadline: Mon May 20 00:00:00 CEST 2024
+Completed: Yes
+Resolution comment: Made an option to sort by name
+Priority: 1
+
+
